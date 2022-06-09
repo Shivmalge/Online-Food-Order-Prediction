@@ -8,13 +8,24 @@
 
 # Model:
 
-### Python Libraries used to build the model:
+### 1. Python Libraries used to build the model:
 #### 1. Numpy 
 #### 2. Pandas
 #### 3. Matplotlib
 #### 4. Seaborn
 #### 5. Plotly
 
+### 2. First of all I have read the dataset using pandas library and dataset contains the information like:
+#### 1. the age of the customer
+#### 2. marital status of the customer
+#### 3. occupation of the customer
+#### 4. monthly income of the customer
+#### 4. educational qualification of the customer
+#### 5. family size of the customer
+#### 6. latitude and longitude of the location of the customer
+#### 7. pin code of the residence of the customer
+#### 8. did the customer order again (Output)
+#### 9. Feedback of the last order (Positive or Negative)
 
 
 

@@ -28,7 +28,21 @@
 - Feedback of the last order (Positive or Negative)
 
 ### 3. Exploratory Data Analysis
+
 - The online food order decisions based on the Age of the Customer.
+##### ![image](https://user-images.githubusercontent.com/104545490/172817504-d1fe0258-5817-400f-a07b-43c6a45c38e5.png)
+#### From above I have analyzed that the age group of 22-25 ordered the food often again. It also means this age group is the target of online food delivery companies
+
+- The online food order decisions based on the size of the family of the customer:
+##### ![image](https://user-images.githubusercontent.com/104545490/172818482-56b2fba4-3617-4efd-bbbd-15fc699506e0.png)
+#### Families with 2 and 3 members are ordering food often. These can be roommates, couples, or a family of three.
+
+- Now, I have created a dataset of all the customers who ordered the food again:
+#### ![image](https://user-images.githubusercontent.com/104545490/172819299-76e6f69f-11fe-433b-8d08-6cbd9bc9bb4c.png)
+
+- I have looked up Gender column and analyzed who orders food more online
+#### 
+
 
 
 

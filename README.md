@@ -79,7 +79,7 @@
 
 ### This is how I have trained a machine learning model to predict online food orders.
 
-## 5. Conclusion:
+## Conclusion:
 ### So this is how I have predicted whether a customer will order food online again or not. The food order prediction system is one of the useful techniques food delivery companies can use to make the entire delivery process fast.
 
 

@@ -6,4 +6,13 @@
 ###                           These companies have so much data about their customers that they now know the food ordering habits of all customers. With this data, they can also predict whether or not a customer will order again from their app. It is a good technique for identifying areas, families and customer types with more business opportunities.
 ## So according to above problem statement, I have build the machine learning model which will predict the online food order from particular customers.
 
+# Model:
+
+### Python Libraries used to build the model:
+#### 1. Numpy 
+#### 2. Pandas
+#### 3. Matplotlib
+#### 4. Seaborn
+#### 5. Plotly
+
 

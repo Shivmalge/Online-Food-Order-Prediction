@@ -83,6 +83,9 @@
 ### So this is how I have predicted whether a customer will order food online again or not. The food order prediction system is one of the useful techniques food delivery companies can use to make the entire delivery process fast.
 
 
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
 
 
 

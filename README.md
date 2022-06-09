@@ -61,15 +61,15 @@
 #### Now I have prepared the data for the task of training a machine learning model. Here I have converted all the categorical features into numerical values:
 ##### ![image](https://user-images.githubusercontent.com/104545490/172827599-d5c89db4-e50b-40a7-903e-28fe8985a558.png)
 
-##  Model Prediction:
+## 4. Model Prediction:
 
 ### Now I have trained the machine learning model to predict whether a customer will order again or not. I have splitted the data into training and test sets:
-### I have used the 'Sklearn' library for training and testing the dataset.
+#### I have used the 'Sklearn' library for training and testing the dataset.
 #### Splitting the data for training and testing.
 #### ![image](https://user-images.githubusercontent.com/104545490/172829187-c7400f60-f599-4338-87ef-ff7b8afc7ebb.png)
 
 ### Training of Machine Learning model
-### I have used the "RandomForestClassifier" for building the model
+#### I have used the "RandomForestClassifier" for building the model
 #### ![image](https://user-images.githubusercontent.com/104545490/172829801-b5054440-e6a1-43c4-859d-3d29f671a53d.png)
 #### ![image](https://user-images.githubusercontent.com/104545490/172829857-32d5f385-8d88-4d0c-bd41-08e9b4f0539e.png)
 #### Here from above model I got accuracy of 94.87 % that is our model predicts the output 94.87 % accurate. 
@@ -79,7 +79,7 @@
 
 ### This is how I have trained a machine learning model to predict online food orders.
 
-## Conclusion:
+## 5. Conclusion:
 ### So this is how I have predicted whether a customer will order food online again or not. The food order prediction system is one of the useful techniques food delivery companies can use to make the entire delivery process fast.
 
 

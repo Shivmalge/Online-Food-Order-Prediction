@@ -11,9 +11,8 @@
 ### 1. Python Libraries used to build the model:
 - Numpy
 - Pandas
-- Matplot
+- Matplotlib
 - Seaborn
-- Plotly
 - Sklearn
 
 ### 2. First of all I have read the dataset using pandas library and dataset contains the information like:

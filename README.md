@@ -24,7 +24,7 @@
 - family size of the customer
 - latitude and longitude of the location of the customer
 - pin code of the residence of the customer
-- did the customer order again (Output)
+- will the customer order again (Output)
 - Feedback of the last order (Positive or Negative)
 
 ### 3. Exploratory Data Analysis

@@ -9,7 +9,7 @@
 # Model:
 
 ### 1. Python Libraries used to build the model:
-- Num
+- Numpy
 - Pandas
 - Matplot
 - Seaborn
